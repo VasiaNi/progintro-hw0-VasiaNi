@@ -1,0 +1,2 @@
+$ cat solution.txt
+bandit0: bandit0
